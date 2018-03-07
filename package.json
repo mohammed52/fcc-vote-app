@@ -1,0 +1,19 @@
+{
+  "name": "fcc-voting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mohammed A. Petiwala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-google": "^0.9.1"
+  }
+}
