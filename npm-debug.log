@@ -4,13 +4,13 @@
 1 verbose cli   'run',
 1 verbose cli   'start' ]
 2 info using npm@3.10.10
-3 info using node@v6.9.5
+3 info using node@v6.10.1
 4 verbose run-script [ 'prestart', 'start', 'poststart' ]
 5 info lifecycle fcc-voting-app@1.0.0~prestart: fcc-voting-app@1.0.0
 6 silly lifecycle fcc-voting-app@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle fcc-voting-app@1.0.0~start: fcc-voting-app@1.0.0
 8 verbose lifecycle fcc-voting-app@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle fcc-voting-app@1.0.0~start: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\AApps\fcc-vote-app\node_modules\.bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\nodejs\;C:\Program Files\Sublime Text 3;C:\Ruby23-x64\bin;C:\Users\MEK-4\AppData\Local\.meteor\;C:\Users\MEK-4\AppData\Roaming\npm;C:\Users\MEK-4\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Heroku\bin;C:\Program Files\Mozilla Firefox
+9 verbose lifecycle fcc-voting-app@1.0.0~start: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\AApps\fcc-vote-app\node_modules\.bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Ruby22\bin;C:\Users\User\AppData\Roaming\npm;C:\Users\User\AppData\Local\.meteor\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\Sublime Text 3;C:\Program Files\Heroku\bin
 10 verbose lifecycle fcc-voting-app@1.0.0~start: CWD: C:\AApps\fcc-vote-app
 11 silly lifecycle fcc-voting-app@1.0.0~start: Args: [ '/d /s /c', 'webpack —- progress —- colors —- watch -d' ]
 12 silly lifecycle fcc-voting-app@1.0.0~start: Returned: code: 1  signal: null
@@ -23,13 +23,13 @@
 14 verbose stack     at ChildProcess.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:40:14)
 14 verbose stack     at emitTwo (events.js:106:13)
 14 verbose stack     at ChildProcess.emit (events.js:191:7)
-14 verbose stack     at maybeClose (internal/child_process.js:877:16)
+14 verbose stack     at maybeClose (internal/child_process.js:886:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
 15 verbose pkgid fcc-voting-app@1.0.0
 16 verbose cwd C:\AApps\fcc-vote-app
-17 error Windows_NT 10.0.14393
+17 error Windows_NT 10.0.16299
 18 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "run" "start"
-19 error node v6.9.5
+19 error node v6.10.1
 20 error npm  v3.10.10
 21 error code ELIFECYCLE
 22 error fcc-voting-app@1.0.0 start: `webpack —- progress —- colors —- watch -d`
